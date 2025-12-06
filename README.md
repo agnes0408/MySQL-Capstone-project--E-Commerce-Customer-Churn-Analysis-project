@@ -1,4 +1,4 @@
-E-Commerce Customer Churn Analysis (MySQL)
+**E-Commerce Customer Churn Analysis (MySQL)**
 📘 Overview
 
 This project explores customer churn analysis within an e-commerce business context, leveraging MySQL for data cleaning, transformation, and analysis.
